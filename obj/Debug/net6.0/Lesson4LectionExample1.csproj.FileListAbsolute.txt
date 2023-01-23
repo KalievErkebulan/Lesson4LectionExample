@@ -1,0 +1,15 @@
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\bin\Debug\net6.0\Lesson4LectionExample1.exe
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\bin\Debug\net6.0\Lesson4LectionExample1.deps.json
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\bin\Debug\net6.0\Lesson4LectionExample1.runtimeconfig.json
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\bin\Debug\net6.0\Lesson4LectionExample1.dll
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\bin\Debug\net6.0\Lesson4LectionExample1.pdb
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\Lesson4LectionExample1.csproj.AssemblyReference.cache
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\Lesson4LectionExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\Lesson4LectionExample1.AssemblyInfoInputs.cache
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\Lesson4LectionExample1.AssemblyInfo.cs
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\Lesson4LectionExample1.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\Lesson4LectionExample1.dll
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\refint\Lesson4LectionExample1.dll
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\Lesson4LectionExample1.pdb
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\Lesson4LectionExample1.genruntimeconfig.cache
+C:\Users\Madara\Desktop\Lesson4\Lesson4LectionExample1\obj\Debug\net6.0\ref\Lesson4LectionExample1.dll
